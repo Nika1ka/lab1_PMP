@@ -66,7 +66,7 @@ class _MyHomePageState extends State<MyHomePage> {
     Person("Aaron Paul", "Chief Cook"),
     Person("Jane Doe", "Intern"),
     Person("Will Bankman", "QA Engineer"),
-    Person("Vladimir Obrizan", "Teacher")
+    Person("Vadim Marchenko", "Student")
   ];
 
 
